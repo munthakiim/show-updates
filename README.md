@@ -1,5 +1,5 @@
 # show. updates
-repository for app releases. make sure to update the app every once a while because the auto update feature aint working man. but i hope you guys enjoy
+repository for app releases. make sure to update the app every once a while because the auto update feature aint working man. but i hope you guys enjoy. just a quick warning tho, this does have ads cuz im broke and i need money but dont worry, the ads only show up once when u click play, its not a huge problem mamasita
 
 here are some previews! 
 
