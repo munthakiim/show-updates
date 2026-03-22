@@ -1,6 +1,8 @@
 show. updates
 
-this is the spot for all the latest app releases. look, the auto-update is tripping right now so you gotta manually update the app every once in a while to keep it running smooth. i really hope y’all enjoy what i built. just a quick heads up—your boy is broke and needs that bag, so there are some ads. but don't even trip, they only pop up once when you hit play. it’s light work, mamasita.
+this is the spot for all the latest app releases. look, the auto-update is tripping right now so you gotta manually update the app every once in a while to keep it running smooth. also, if windows tries to tell you the file is a virus, just ignore that—it’s 100% clean, windows is just being a hater. i really hope y’all enjoy what i built. i’m still working on that "continue watching" feature so it ain't in this version yet, but stay tuned.
+
+just a quick heads up—your boy is broke and needs that bag, so there are some ads. but don't even trip, they only pop up once when you hit play. it’s light work, mamasita.
 
 check the previews below!
 
