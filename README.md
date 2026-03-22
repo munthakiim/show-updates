@@ -1,6 +1,6 @@
-# show. updates 🎬
+show. updates 🎬
 
-welcome to the official repository for show. updates releases.
+welcome to the official repository for show. updates releases. btw, this is a desktop only app, so no mobile versions here.
 
 man, look. the auto-update feature is currently tweaking and not working, so you gotta come back here every once a while to grab the latest version manually if you want the new stuff. i hope you guys enjoy the app though!
 
@@ -30,7 +30,7 @@ and finally, your own collections (and notifs for upcoming movies and shows)
 
 head over to the releases section.
 
-download the latest apk.
+download the latest desktop installer (like the .exe or setup file).
 
 install and enjoy.
 
