@@ -1,27 +1,37 @@
-# show. updates
-repository for app releases. make sure to update the app every once a while because the auto update feature aint working man. but i hope you guys enjoy. just a quick warning tho, this does have ads cuz im broke and i need money but dont worry, the ads only show up once when u click play, its not a huge problem mamasita
+# show. updates 🎬
 
-here are some previews! 
+welcome to the official repository for show. updates releases.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c17bc83c-32d9-48b8-85de-7d7a412a7a32" />
+man, look. the auto-update feature is currently tweaking and not working, so you gotta come back here every once a while to grab the latest version manually if you want the new stuff. i hope you guys enjoy the app though!
 
-you can watch any movies you wnat! 4 dynamic servers constantly updaitng.
+⚠️ real talk on ads
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42ba1b25-1c9e-414a-999e-260d61aa5e89" />
+just a quick warning: i'm broke and i need money to keep this thing running, so yeah, there are ads. but don't worry—they only show up once when you click play. it’s not a huge problem mamasita, just enough to keep the lights on.
 
-view cast and crew for your movies
+🔥 what's inside?
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d3b4805-b25d-4743-bca3-4a9844d992dd" />
+watch whatever you want 4 dynamic servers constantly updating so you're never left hanging.
+<img width="100%" alt="watch movies" src="https://github.com/user-attachments/assets/c17bc83c-32d9-48b8-85de-7d7a412a7a32" />
 
-check out your favourite actor/actresses filmography 
+know the squad view the full cast and crew for your movies.
+<img width="100%" alt="cast info" src="https://github.com/user-attachments/assets/42ba1b25-1c9e-414a-999e-260d61aa5e89" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c35b71cd-aa6f-4589-9a4d-2b6441ba74f2" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/722e6a9a-3354-4a9a-a668-7da74fb104bf" />
+stan your favorites check out your favorite actor/actresses entire filmography in one spot.
+<img width="100%" alt="filmography" src="https://github.com/user-attachments/assets/5d3b4805-b25d-4743-bca3-4a9844d992dd" />
 
-search any show
+find the vibe search any show, anytime.
+<img width="100%" alt="search" src="https://github.com/user-attachments/assets/c35b71cd-aa6f-4589-9a4d-2b6441ba74f2" />
+<img width="100%" alt="search results" src="https://github.com/user-attachments/assets/722e6a9a-3354-4a9a-a668-7da74fb104bf" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9d7c001-a38f-4057-b390-014e888c33eb" />
+stay organized your own collections and notifications for upcoming movies and shows so you don't miss out.
+<img width="100%" alt="collections" src="https://github.com/user-attachments/assets/29a74a22-b965-45e5-a321-1ad34f4c32b3" />
 
-and finally, your own collections (and notifs for upcoming movies and shows)
+📦 how to get it
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29a74a22-b965-45e5-a321-1ad34f4c32b3" />
+head over to the releases section.
+
+download the latest apk.
+
+install and enjoy.
+
+remember to check back here for updates since the auto-updater is dead for now lol. peace!
