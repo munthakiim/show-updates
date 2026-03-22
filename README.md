@@ -30,7 +30,7 @@ stay organized your own collections and notifications for upcoming movies and sh
 
 head over to the releases section.
 
-download the latest apk.
+download the latest exe.
 
 install and enjoy.
 
